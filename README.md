@@ -1,6 +1,6 @@
 # Threat-Hunting-with-Zeek-and-RITA
 
-Implemented small Cyber Threat Hunting Lab consisting of Kali linux , Ubuntu Server, Zeek , Rita , and Splunk SIEM.  This project provides a hands-on and comprehensive learning experience for individuals interested in working with an Enterprise SIEM as well as, threat hunting, and network defense.  Leveraging powerful tools such as Zeek, Real Intelligence Threat Analytics (RITA), Kali Linux, and incorporating active countermeasures practice malware, this lab provides the development of skills needed to detect, analyze, and counteract potential threats.
+Implemented small Cyber Threat Hunting Lab consisting of Kali Linux, Ubuntu Server, Zeek, Rita, and Splunk SIEM. This project provides a hands-on and comprehensive learning experience for individuals interested in working with an Enterprise SIEM as well as, threat hunting, and network defense. Leveraging powerful tools such as Zeek, Real Intelligence Threat Analytics (RITA), Kali Linux, and incorporating active countermeasures practice malware, this lab provides the development of skills needed to detect, analyze, and counteract potential threats. 
 
 
 
