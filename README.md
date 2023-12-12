@@ -4,7 +4,7 @@ Octopus is an open source, pre-operation C2 server.  It is based in Python and t
 
 In this project implemented threat hunting tools to discover C2 beaconing. Applied Zeek logs and Real Intelligence (RITA) Threat Analytics to find beaconing behavior by the Octopus C2 Server.
 
-
+Platforms and Technology: Kali Linux, RITA, Zeek Network traffic analyzer
 
 ![Screenshot (4)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/6fb36c6c-1199-43bf-a7b3-91c8ae5d7946)
 Octopus 24hr pcap sample  
