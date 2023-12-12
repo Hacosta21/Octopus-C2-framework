@@ -20,6 +20,7 @@ Applied Zeek tool to process pcap file and parse file into Zeek log data. (conn.
 Searching for connection persistency.  Looking at originating IP, responding IP as well as the duration of each connection.
 
 ![Screenshot (23)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/851a1da5-5d64-4ddf-89a7-cd8dc11f4078)
-Pcap sample exhibits a connsistent connection on TCP protocol, port 443 and SSL Service.
+Pcap sample exhibits a connsistent connection on TCP protocol, port 443 and SSL Service. It also shows that the majority of connection byte size is smaller than normal traffic.
+
 
 
