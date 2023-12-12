@@ -14,7 +14,6 @@
 ![Screenshot (18)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/392062da-2c5c-49c7-9a8c-72e55081ac70)
 ![Screenshot (17)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/46e03f21-d413-4e59-bafb-9ccace1239c5)
 ![Screenshot (15)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/680fa094-988e-4f4a-b945-ec83b67d11c1)
-![Screenshot (13)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/705b375f-5e5c-4f7b-8776-f2905c398096)
 ![Screenshot (12)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/49e57c6f-a864-4e4c-906d-3fe32a8ca423)
 ![Screenshot (11)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/f76b3309-dabb-4080-b47d-6fd16b5fb020)
 ![Screenshot (10)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/b7fee4f2-64dc-4505-87da-7843a65e733d)
