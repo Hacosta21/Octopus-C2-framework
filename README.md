@@ -1,6 +1,8 @@
 # Octopus an open source command and control C2 framework
 
-Octopus is an open source, pre-operation C2 server.  It is based in Python and typically uses a powershell agent on the target server which it communicates through https.
+Octopus is an open source, pre-operation C2 server.  It is based in Python and typically uses a powershell agent on the target server which it communicates through https.  
+
+In this project used threat hunting tools to discover C2 beaconing. Applied Zeek logs and Real Intelligence (RITA) Threat Analytics to find beaconing behavior by the Octopus C2 Server.
 
 
 
