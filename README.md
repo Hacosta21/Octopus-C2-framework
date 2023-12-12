@@ -19,8 +19,7 @@ Applied Zeek tool to process pcap file and parse file into Zeek log data. (conn.
 ![Screenshot (25)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/5358af9a-c96d-400e-8f9c-2ea3b4170d82)
 Searching for connection persistency.  Looking at originating IP, responding IP as well as the duration of each connection.
 
-
-
-
+![Screenshot (23)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/851a1da5-5d64-4ddf-89a7-cd8dc11f4078)
+Pcap sample show connsistent connection on TCPprotocol, port 443 and SSL Service.
 
 
