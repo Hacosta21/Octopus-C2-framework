@@ -2,7 +2,7 @@
 
 Octopus is an open source, pre-operation C2 server.  It is based in Python and typically uses a powershell agent on the target server which it communicates through https.  
 
-In this exercise I implemented threat hunting tools to discover C2 beaconing. Used Zeek logs to perform network analysis on 24hr pcap sample and Real Intelligence (RITA) Threat Analytics to find beaconing behavior by the Octopus C2 Server.
+In this exercise I implemented threat hunting tools to discover C2 beaconing. Used Zeek logs to perform network analysis on a 24hr pcap sample, I also performed anamoly detection and beaconing analysis with  Real Intelligence Threat Analytics(RITA) tool to find beaconing behavior by the Octopus C2 Server.
 
 Platforms and Technology: Kali Linux, RITA, Zeek Network traffic analyzer
 
@@ -17,7 +17,7 @@ Applied Zeek tool to process pcap file and parse file into Zeek log data. (conn.
 Searching for connection persistency.  Looking at originating IP, responding IP as well as the duration of each connection.
 
 ![Screenshot (23)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/851a1da5-5d64-4ddf-89a7-cd8dc11f4078)
-The Pcap sample exhibits a connsistent connection on TCP protocol, port 443 and SSL Service. It also shows that the byte size of the connection traffic is relatively smaller than normal traffic.
+The Pcap sample exhibits a connsistent connection on TCP protocol, port 443 and is using SSL Service. It also shows that the byte size of the connection traffic is relatively small compated to normal network traffic operating on port 443 and using SSL.
 
 
 
