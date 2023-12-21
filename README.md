@@ -23,7 +23,7 @@ The Pcap sample exhibits persistency on TCP port 443 and is using SSL Service. I
 
 Real Intelligence Threa Analytics(RITA) tool, is open source and is designed to identify malicious activity within network traffic.
 ![Screenshot (31)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/b7a7b0eb-cec8-45a0-ad4b-bc759ba5b296)
-Analyzing the pcap sample with RITA shows a high probability that this connection is beaconing and is worth further investigation. 
+Analyzing the pcap sample with RITA produces a perfect beaconing score . Rita provides confirmation that this connection is beaconing and is worth further investigation.  
 
 
 ![Screenshot (15)](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA/assets/65152491/6cbba332-9447-412b-90bc-cef7dc749b67)
